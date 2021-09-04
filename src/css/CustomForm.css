@@ -1,0 +1,21 @@
+.Custom_form {
+  width: 30rem;
+  border: 2px solid grey;
+  padding: 20px;
+}
+.flexForm {
+  /* display: flex; */
+  /* flex-direction: column; */
+  /* justify-content: flex-end; */
+}
+#dis {
+  color: grey;
+}
+#Custom-alert {
+  padding: 4px 15px;
+}
+#disabled {
+  pointer-events: none;
+  color: rgb(73, 73, 73);
+  background-color: rgb(201, 201, 201);
+}

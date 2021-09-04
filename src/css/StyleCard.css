@@ -1,0 +1,57 @@
+.custom_grid {
+  box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+  /* margin: 0px; */
+}
+
+.initials {
+  position: relative;
+  top: 5px;
+  font-size: 30px;
+  color: #fff;
+  font-family: "Courier New", monospace;
+  font-weight: bold;
+  -webkit-touch-callout: none; /* iOS Safari */
+  -webkit-user-select: none; /* Safari */
+  -khtml-user-select: none; /* Konqueror HTML */
+  -moz-user-select: none; /* Old versions of Firefox */
+  -ms-user-select: none; /* Internet Explorer/Edge */
+  user-select: none; /* Non-prefixed version, currently
+                         supported by Chrome, Edge, Opera and Firefox */
+}
+.card-header {
+  display: flex;
+  justify-content: flex-end;
+}
+.card-header #Icon {
+  margin: 0px 4px;
+}
+.card-header #Icon:hover {
+  opacity: 0.7;
+  cursor: pointer;
+}
+.custom_card_body {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.card-body {
+  padding: 0.5rem;
+}
+.avatar-circle {
+  width: 50px;
+  height: 50px;
+  /* background-color: red; */
+  text-align: center;
+  border-radius: 50%;
+  box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+}
+#cardTitle {
+  white-space: nowrap;
+  width: 125px;
+  /* height: 50px; */
+  text-overflow: ellipsis;
+  overflow: hidden;
+  align-self: center;
+}
