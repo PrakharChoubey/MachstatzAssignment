@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/MachstatzAssignment/static/css/main.87173f31.chunk.css",
+    "main.js": "/MachstatzAssignment/static/js/main.1ea4cb1b.chunk.js",
+    "main.js.map": "/MachstatzAssignment/static/js/main.1ea4cb1b.chunk.js.map",
+    "runtime-main.js": "/MachstatzAssignment/static/js/runtime-main.b8cf340b.js",
+    "runtime-main.js.map": "/MachstatzAssignment/static/js/runtime-main.b8cf340b.js.map",
+    "static/css/2.ac82d3be.chunk.css": "/MachstatzAssignment/static/css/2.ac82d3be.chunk.css",
+    "static/js/2.5ea56b95.chunk.js": "/MachstatzAssignment/static/js/2.5ea56b95.chunk.js",
+    "static/js/2.5ea56b95.chunk.js.map": "/MachstatzAssignment/static/js/2.5ea56b95.chunk.js.map",
+    "static/js/3.0ddeef7c.chunk.js": "/MachstatzAssignment/static/js/3.0ddeef7c.chunk.js",
+    "static/js/3.0ddeef7c.chunk.js.map": "/MachstatzAssignment/static/js/3.0ddeef7c.chunk.js.map",
+    "index.html": "/MachstatzAssignment/index.html",
+    "static/css/2.ac82d3be.chunk.css.map": "/MachstatzAssignment/static/css/2.ac82d3be.chunk.css.map",
+    "static/css/main.87173f31.chunk.css.map": "/MachstatzAssignment/static/css/main.87173f31.chunk.css.map",
+    "static/js/2.5ea56b95.chunk.js.LICENSE.txt": "/MachstatzAssignment/static/js/2.5ea56b95.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b8cf340b.js",
+    "static/css/2.ac82d3be.chunk.css",
+    "static/js/2.5ea56b95.chunk.js",
+    "static/css/main.87173f31.chunk.css",
+    "static/js/main.1ea4cb1b.chunk.js"
+  ]
+}
