@@ -13,8 +13,10 @@ const URL = "http://15.207.229.231:8000/machstatz";
 function App() {
   const [allUsers, setUsers] = useState([]);
   const retrieveAllUsers = async () => {
-    const response = await axios.get(`${URL}/get_all_users`);
-    return response.data;
+//     const response = await axios.get(`${URL}/get_all_users`);
+//     return response.data;
+    const response = await axios.get(`${URL}/get_all_users`).catch(er => alert(`Network Error - Api failure`));
+    return response? response.data: null ;
   }
   const addNewUser = async (User) => {
     const user = {
